@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * MdB Parser
+ */
+
+include 'script/mdb-parser.php';
